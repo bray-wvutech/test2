@@ -1,0 +1,41 @@
+body {
+    background-color: aqua; 
+    border: solid 1px black; 
+    width: 75%; 
+    margin: 50px auto 20px auto;    
+}
+
+header {
+    background-color: blue; 
+    color: white; 
+    text-align: center; 
+    padding: 10px;
+}
+
+footer {
+    color:lightgrey; 
+    font-size: small;
+}
+
+.story-div {
+    border: solid 1px black; 
+    margin: 20px;
+}
+
+.story-title {
+    background: red; 
+    padding: 5px
+}
+
+.story-authors {
+
+}
+
+.story-content {
+    padding: 5px
+}
+
+.story-image {
+    width: 300px; 
+    border: solid 5px red;
+}
